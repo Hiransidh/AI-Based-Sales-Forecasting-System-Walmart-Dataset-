@@ -63,16 +63,3 @@ Applicable to retail, supply chain, e-commerce, and FMCG sectors for more accura
 | 2012-11-30 | 27,995.13             |
 
 ---
-
-## Getting Started
-
-1. Clone the repository.
-2. Install dependencies from `requirements.txt`.
-3. Run the Jupyter notebook or Python scripts to reproduce results.
-
----
-
-## License
-
-This project is for educational and research purposes.
-
